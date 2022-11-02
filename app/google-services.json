@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41563688131",
+    "firebase_url": "https://novo2022-7a293-default-rtdb.firebaseio.com",
+    "project_id": "novo2022-7a293",
+    "storage_bucket": "novo2022-7a293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41563688131:android:d695de231e7e93760a6676",
+        "android_client_info": {
+          "package_name": "br.unigran.firebasenovo2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41563688131-23tjlhv5cr3b3sjltvghsb3q3rm1g8el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unigran.firebasenovo2022",
+            "certificate_hash": "ad72026b0993c1b5b161c4954173a00b420fefce"
+          }
+        },
+        {
+          "client_id": "41563688131-ehgr4iqenhs0d3hsgs7h13q1mibqub5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9tnXngJ4tC77OjLmNIQNrUNorzybI0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41563688131-ehgr4iqenhs0d3hsgs7h13q1mibqub5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
